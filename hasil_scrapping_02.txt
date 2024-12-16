@@ -1,0 +1,11 @@
+DAFTAR KURSUS YANG DITAWARKAN: 
+Python
+C++
+C#
+Java
+LANGKAH BELAJAR: 
+1. Pilih bahasa pemrograman yang ingin Anda pelajari.
+2. Kunjungi halaman kursus kami dan daftar untuk kelas yang sesuai.
+3. Ikuti materi pembelajaran yang disediakan dan selesaikan tugas-tugas.
+4. Bergabunglah dengan forum diskusi untuk berdiskusi dan bertanya jawab.
+5. Praktikkan keterampilan Anda dengan mengerjakan proyek nyata.

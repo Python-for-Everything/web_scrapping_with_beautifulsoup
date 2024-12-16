@@ -1,0 +1,5 @@
+JUDUL: 
+Selamat Datang di Situs Belajar Pemrograman
+ISI PARAGRAF: 
+Website ini didedikasikan untuk membantu Anda memulai perjalanan belajar pemrograman. Kami menyediakan berbagai materi yang mencakup beberapa bahasa pemrograman populer seperti Python, C++, C#, dan Java. Dengan materi yang terstruktur dan mudah dipahami, kami berharap Anda dapat mengembangkan keterampilan pemrograman Anda dan mencapai tujuan belajar Anda.
+Setiap bahasa pemrograman memiliki keunikan dan kegunaannya masing-masing. Misalnya, Python dikenal karena sintaksnya yang sederhana dan banyak digunakan dalam pengembangan web serta analisis data. C++ sering digunakan dalam pengembangan perangkat lunak dengan kinerja tinggi, seperti game dan aplikasi desktop. C# adalah bahasa yang kuat untuk pengembangan aplikasi pada platform .NET. Sementara itu, Java sangat populer untuk pengembangan aplikasi Android dan sistem enterprise. Kami mengajak Anda untuk menjelajahi setiap bahasa pemrograman ini dan menemukan mana yang paling sesuai dengan kebutuhan Anda.
